@@ -22,7 +22,7 @@ This project analyzes logistics and supply chain data using Excel to identify pe
 ![Dashboard](dashboard.png)
 
 ## 📂 Project File
-🔽 [Download Power BI Dashboard](powerbi-logistics-dashboard.pbix)
+🔽 [Download Power BI Dashboard](powerbi-logistics-dashboard)
 
 ## 📈 Key Insights
 - Identified high-cost regions  
